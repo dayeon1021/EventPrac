@@ -70,7 +70,7 @@ namespace EventPrac
         private void btnReset_Click(object sender, EventArgs e)
         {
             elapsedTime = 0;
-            text
+            textBox1.Text = "";
         }
     }
 }
